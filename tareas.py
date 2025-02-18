@@ -19,6 +19,8 @@ c.execute("""
     )
 """)
 
+
+
 coon.commit()
 
 #funcion que elimina las tareas de la base de datos donde el id coincida con el id seleccionado
