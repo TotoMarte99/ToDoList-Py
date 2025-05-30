@@ -19,5 +19,4 @@ Una aplicación de lista de tareas sencilla y funcional desarrollada en **Python
 - Tkinter – para la interfaz gráfica
 - SQLite – para almacenamiento local de tareas
 
----
 
